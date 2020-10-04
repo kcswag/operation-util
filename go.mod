@@ -1,4 +1,4 @@
-module operation-util
+module github.com/kcswag/operation-util
 
 go 1.14
 
